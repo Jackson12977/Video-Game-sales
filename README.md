@@ -12,4 +12,4 @@ vi. Monitored how each game has been doing since its release.
 
 
 
-My major problem with this dataset is that it was that it started from 1980 and ended 2017
+My major problem with this dataset is that it started from 1980 and ended 2017
